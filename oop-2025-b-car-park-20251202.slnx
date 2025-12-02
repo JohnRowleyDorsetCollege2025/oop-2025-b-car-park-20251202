@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="CarPark.Tests/CarPark.Tests.csproj" Id="e20e2556-dc11-4f8c-bbce-867c4c7277ff" />
   <Project Path="oop-2025-b-car-park-20251202/oop-2025-b-car-park-20251202.csproj" />
 </Solution>
