@@ -22,3 +22,7 @@ Console.WriteLine($"Grand Total: €{grandTotal:F2}");
 Console.WriteLine(new string('-', 40));
 
 CarParkCalculatorApp.Run();
+
+Console.WriteLine(new string('-', 40));
+
+CarParkCalculatorAppWithRate.Run();
